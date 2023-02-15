@@ -9,8 +9,8 @@ Une question ? Une idée ? Une proposition ?
 
 __Contactez-moi !__
 
-> [claire_soboul@gmail.com]()<br/>
-> +33(0)7 06 05 04 03<br/>
+> 📧[claire_soboul@gmail.com]()<br/>
+> ☎️+33(0)7 06 05 04 03<br/>
 > [Linkedin]()<br/>
 > [Twitter]()
 
