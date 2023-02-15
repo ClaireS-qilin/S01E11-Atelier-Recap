@@ -2,12 +2,11 @@
 # Claire Soboul
 *Developpeuse web junior, en formation "Développement Web Accessibilité"*
 
-[Accueil](README.md) - [Projets](projet.md) - [CV](cv.md) - [Contact]()
+[Accueil](README.md) - [Projets](projet.md) - [CV](cv.md) - [Contact](contact.md)
 
 ## CV
 
-404 avenue du web
-
+404 avenue du web<br/>
 75000 Paris
 
 [claire_soboul@gmail.com]()

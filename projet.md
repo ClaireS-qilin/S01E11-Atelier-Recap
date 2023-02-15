@@ -2,7 +2,7 @@
 # Claire Soboul
 *Developpeuse web junior, en formation "Développement Web Accessibilité"*
 
-[Accueil](README.md) - [Projets](projet.md) - [CV](cv.md) - [Contact]()
+[Accueil](README.md) - [Projets](projet.md) - [CV](cv.md) - [Contact](contact.md)
 
 ## Mes projets
 
