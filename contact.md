@@ -11,8 +11,8 @@ __Contactez-moi !__
 
 > 📧[claire_soboul@gmail.com]()<br/>
 > ☎️+33(0)7 06 05 04 03<br/>
-> [Linkedin]()<br/>
-> [Twitter]()
+> 📍[Linkedin]()<br/>
+> 🐦[Twitter]()
 
 
 *A bientôt !*
